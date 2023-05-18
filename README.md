@@ -21,24 +21,24 @@ This repository contains a collection of projects completed by RaulF21. Each pro
 - [MailMerge](MailMerge/): Description of the project and its purpose.
 - [MovieList](MovieList/): Description of the project and its purpose.
 - [Nato-alphabet-start](Nato-alphabet-start/): Description of the project and its purpose.
-- [OPPCoffeeMachine](OPPCoffeeMachine/): Description of the project and its purpose.
-- [PasswordManager](PasswordManager/): Description of the project and its purpose.
-- [Pomodoro](Pomodoro/): Description of the project and its purpose.
-- [PongGame](PongGame/): Description of the project and its purpose.
-- [Rain_Alert](Rain_Alert/): Description of the project and its purpose.
-- [RentScrapping](RentScrapping/): Description of the project and its purpose.
-- [SnakeGame](SnakeGame/): Description of the project and its purpose.
-- [Stocks](Stocks/): Description of the project and its purpose.
+- [OPPCoffeeMachine](OPPCoffeeMachine/):
+- [PasswordManager](PasswordManager/): Python Script using Tkinter for the Graphical user interface of a Password Manager Application. Generates, searches and saves for passwords.
+- [Pomodoro](Pomodoro/): Implements of a Pomodoro timer application using Tkinter library, purpose is to use Pomodoro Technique's time management principles, timer altnerates between work sessions and breaks to enchance productivity. 
+- [PongGame](PongGame/): Python Script that implements the classic game "Pong" using the turtle module.
+- [Rain_Alert](Rain_Alert/): Python script that utilizes the OpenWeatherMap API and Twilio API to check if it will rain within the next 12 hours and sends an SMS notification if rain is expected.
+- [RentScrapping](RentScrapping/): Python Script that performs webscrapping using BeautifulSoup and interacts with a Google Form using Selenium WebDriver. The Script automates the process of populating a Google Form with Property details obtained from Zillow's filtered Search. eg. Address, Rent, And Link to Post.
+- [SnakeGame](SnakeGame/): Python Script using the turtle module that allows to play a basic snake game where the objective is to eat the food and avoid colliding with the walls or snake's on tail. The Score increases with each successfull food consumption and collisions result in a game reset.
+- [Stocks](Stocks/): Python script that retrieves stock data from AlphaVantage and news articles from NewsApi. It uses Twilio API to send SMS messages with stock information and news articles if the stock drops or goes up. 
 - [TinDog Project](TinDog Project/): Description of the project and its purpose.
-- [Turtle](Turtle/): Description of the project and its purpose.
-- [TurtleCrossing](TurtleCrossing/): Description of the project and its purpose.
-- [TwitterComplainBot](TwitterComplainBot/): Description of the project and its purpose.
+- [Turtle](Turtle/): Python script that simulates a turtle race using the Turtle Graphics library. You can enter your bet against your friends on the winning turtle's color. Script will display whether you won or lost the bet.
+- [TurtleCrossing](TurtleCrossing/): Python Script for a game where the player controls a turtle to cross a busy road while avoiding cars. 
+- [TwitterComplainBot](TwitterComplainBot/): Python scipt that uses Selenium to automate internet speed testing and tweeting at an internet service provider to complain. 
 - [WTFFORM](WTFFORM/): Description of the project and its purpose.
 - [flightSearch](flightSearch/): Description of the project and its purpose.
 - [quizGame](quizGame/): Description of the project and its purpose.
 - [top100-movies](top100-movies/): Description of the project and its purpose.
 - [upgraded-blog](upgraded-blog/): Description of the project and its purpose.
-- [us-states-game-start](us-states-game-start/): Description of the project and its purpose.
+- [us-states-game-start](us-states-game-start/): Python script for U.S. States game using the Turtle graphic library. Keeps track of which states you know and which ones you missed. 
 - [workOutTracker](workOutTracker/): Description of the project and its purpose.
 ## Getting Started
 
@@ -54,5 +54,5 @@ This repository is licensed under the [MIT License](LICENSE). You are free to us
 
 ## Contact
 
-If you have any questions or suggestions regarding the projects in this repository, you can contact RaulF21 via email at [raul@example.com](mailto:raul@example.com).
+If you have any questions or suggestions regarding the projects in this repository, you can contact RaulF21 via email at [raul@example.com](mailto:raulflores650@gmail.com).
 
