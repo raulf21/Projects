@@ -7,7 +7,7 @@ This repository contains a collection of projects completed by RaulF21. Each pro
 
 - [AmazonPrice](AmazonPrice/): The provided code is a Python script that serves the purpose of monitoring the price of a product on Amazon and sending an email alert if the price falls below a specified threshold.
 - [Authentication](Authentication/): Description of the project and its purpose.
-- [Birthday](Birthday/): Description of the project and its purpose.
+- [Birthday](Birthday/): It is a Python script that automates the process of sending friends/family birthday emails based on a CSV file containing thier information. Helps prevent you from forgetting someones birthday.
 - [Blog](Blog/): Description of the project and its purpose.
 - [Blog2](Blog2/): Description of the project and its purpose.
 - [Blog3](Blog3/): Description of the project and its purpose.
