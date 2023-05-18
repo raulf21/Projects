@@ -5,7 +5,7 @@ This repository contains a collection of projects completed by RaulF21. Each pro
 
 ## Project List
 
-- [AmazonPrice](AmazonPrice/): The provided code is a Python script that serves the purpose of monitoring the price of a product on Amazon and sending an email alert if the price falls below a specified threshold. Here's a concise description of its purpose:
+- [AmazonPrice](AmazonPrice/): The provided code is a Python script that serves the purpose of monitoring the price of a product on Amazon and sending an email alert if the price falls below a specified threshold.
 - [Authentication](Authentication/): Description of the project and its purpose.
 - [Birthday](Birthday/): Description of the project and its purpose.
 - [Blog](Blog/): Description of the project and its purpose.
